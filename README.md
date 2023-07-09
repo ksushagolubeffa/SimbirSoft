@@ -8,6 +8,8 @@
 - Dagger 2
 - Room Database
 - Navigator
-- Mockk Tests
 - Jetpack Compose
 - Многомодульность
+- Mockk Tests
+
+https://github.com/ksushagolubeffa/SimbirSoft/assets/90283484/e98baa33-586d-4c9a-8efa-fa20f8e8d7e8
